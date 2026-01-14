@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>com.archlinux.MusicPlayer</id>
+  <metadata_license>GPL-3.0</metadata_license>
+  <project_license>GPL-3.0</project_license>
+  <name>Arch Music Player</name>
+  <summary>A comprehensive music player for Arch Linux</summary>
+  
+  <description>
+    <p>A modern, native music player for Arch Linux built with Rust and GTK4.</p>
+    <p>Features extensive audio format support, automatic library scanning, rich metadata handling, and a beautiful modern interface.</p>
+  </description>
+  
+  <launchable type="desktop-id">com.archlinux.MusicPlayer.desktop</launchable>
+  
+  <provides>
+    <binary>arch-music-player</binary>
+  </provides>
+  
+  <screenshots>
+    <screenshot type="default">
+      <image>https://raw.githubusercontent.com/archlinux/music-player/main/screenshots/main-window.png</image>
+    </screenshot>
+  </screenshots>
+  
+  <url type="homepage">https://github.com/archlinux/music-player</url>
+  <url type="bugtracker">https://github.com/archlinux/music-player/issues</url>
+  <url type="help">https://github.com/archlinux/music-player/wiki</url>
+  
+  <categories>
+    <category>AudioVideo</category>
+    <category>Audio</category>
+    <category>Player</category>
+  </categories>
+  
+  <keywords>
+    <keyword>Music</keyword>
+    <keyword>Audio</keyword>
+    <keyword>Player</keyword>
+    <keyword>MP3</keyword>
+    <keyword>FLAC</keyword>
+    <keyword>OGG</keyword>
+  </keywords>
+  
+  <requires>
+    <display_length compare="ge">360</display_length>
+  </requires>
+  
+  <recommends>
+    <control>pointing</control>
+    <control>keyboard</control>
+  </recommends>
+</component>

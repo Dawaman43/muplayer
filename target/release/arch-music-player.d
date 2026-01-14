@@ -1,0 +1,1 @@
+/home/dave/Documents/projects/arch-music-player/target/release/arch-music-player: /home/dave/Documents/projects/arch-music-player/build.rs /home/dave/Documents/projects/arch-music-player/src/main_playable.rs

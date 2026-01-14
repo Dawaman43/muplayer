@@ -1,0 +1,12 @@
+/home/dave/Documents/projects/arch-music-player/target/debug/deps/gif-0328e8e770740739.d: /home/dave/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.13.3/src/lib.rs /home/dave/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.13.3/src/traits.rs /home/dave/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.13.3/src/common.rs /home/dave/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.13.3/src/reader/mod.rs /home/dave/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.13.3/src/reader/decoder.rs /home/dave/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.13.3/src/reader/converter.rs /home/dave/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.13.3/src/encoder.rs /home/dave/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.13.3/src/../README.md
+
+/home/dave/Documents/projects/arch-music-player/target/debug/deps/libgif-0328e8e770740739.rmeta: /home/dave/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.13.3/src/lib.rs /home/dave/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.13.3/src/traits.rs /home/dave/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.13.3/src/common.rs /home/dave/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.13.3/src/reader/mod.rs /home/dave/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.13.3/src/reader/decoder.rs /home/dave/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.13.3/src/reader/converter.rs /home/dave/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.13.3/src/encoder.rs /home/dave/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.13.3/src/../README.md
+
+/home/dave/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.13.3/src/lib.rs:
+/home/dave/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.13.3/src/traits.rs:
+/home/dave/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.13.3/src/common.rs:
+/home/dave/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.13.3/src/reader/mod.rs:
+/home/dave/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.13.3/src/reader/decoder.rs:
+/home/dave/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.13.3/src/reader/converter.rs:
+/home/dave/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.13.3/src/encoder.rs:
+/home/dave/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.13.3/src/../README.md:

@@ -1,0 +1,13 @@
+/home/dave/Documents/projects/arch-music-player/target/debug/deps/cpal-d77f56f33275b663.d: /home/dave/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cpal-0.15.3/src/lib.rs /home/dave/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cpal-0.15.3/src/error.rs /home/dave/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cpal-0.15.3/src/host/mod.rs /home/dave/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cpal-0.15.3/src/host/alsa/mod.rs /home/dave/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cpal-0.15.3/src/host/alsa/enumerate.rs /home/dave/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cpal-0.15.3/src/host/null/mod.rs /home/dave/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cpal-0.15.3/src/platform/mod.rs /home/dave/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cpal-0.15.3/src/samples_formats.rs /home/dave/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cpal-0.15.3/src/traits.rs
+
+/home/dave/Documents/projects/arch-music-player/target/debug/deps/libcpal-d77f56f33275b663.rmeta: /home/dave/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cpal-0.15.3/src/lib.rs /home/dave/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cpal-0.15.3/src/error.rs /home/dave/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cpal-0.15.3/src/host/mod.rs /home/dave/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cpal-0.15.3/src/host/alsa/mod.rs /home/dave/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cpal-0.15.3/src/host/alsa/enumerate.rs /home/dave/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cpal-0.15.3/src/host/null/mod.rs /home/dave/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cpal-0.15.3/src/platform/mod.rs /home/dave/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cpal-0.15.3/src/samples_formats.rs /home/dave/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cpal-0.15.3/src/traits.rs
+
+/home/dave/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cpal-0.15.3/src/lib.rs:
+/home/dave/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cpal-0.15.3/src/error.rs:
+/home/dave/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cpal-0.15.3/src/host/mod.rs:
+/home/dave/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cpal-0.15.3/src/host/alsa/mod.rs:
+/home/dave/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cpal-0.15.3/src/host/alsa/enumerate.rs:
+/home/dave/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cpal-0.15.3/src/host/null/mod.rs:
+/home/dave/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cpal-0.15.3/src/platform/mod.rs:
+/home/dave/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cpal-0.15.3/src/samples_formats.rs:
+/home/dave/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cpal-0.15.3/src/traits.rs:

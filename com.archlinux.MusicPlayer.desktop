@@ -1,0 +1,26 @@
+[Desktop Entry]
+Type=Application
+Name=Arch Music Player
+GenericName=Music Player
+Comment=A comprehensive music player for Arch Linux
+Icon=com.archlinux.MusicPlayer
+Exec=arch-music-player %U
+Terminal=false
+Categories=AudioVideo;Audio;Player;
+MimeType=audio/mpeg;audio/flac;audio/ogg;audio/wav;audio/x-m4a;
+StartupNotify=true
+StartupWMClass=arch-music-player
+Keywords=Music;Audio;Player;MP3;FLAC;OGG;
+Actions=PlayPause;Next;Previous;
+
+[Desktop Action PlayPause]
+Name=Play/Pause
+Exec=arch-music-player --play-pause
+
+[Desktop Action Next]
+Name=Next Track
+Exec=arch-music-player --next
+
+[Desktop Action Previous]
+Name=Previous Track
+Exec=arch-music-player --previous

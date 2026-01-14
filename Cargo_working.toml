@@ -1,0 +1,20 @@
+[package]
+name = "arch-music-player"
+version = "0.1.0"
+edition = "2021"
+description = "A comprehensive music player for Arch Linux"
+authors = ["Arch Linux Community"]
+license = "GPL-3.0"
+repository = "https://github.com/archlinux/music-player"
+
+[[bin]]
+name = "arch-music-player"
+path = "src/main_working.rs"
+
+[dependencies]
+gtk4 = "0.8"
+libadwaita = "0.6"
+
+[features]
+default = ["gtk4"]
+gtk4 = ["dep:gtk4"]

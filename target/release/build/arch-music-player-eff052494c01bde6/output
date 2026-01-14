@@ -1,0 +1,3 @@
+cargo:rustc-link-lib=dylib=pulse
+cargo:rustc-link-lib=dylib=pulse-simple
+cargo:rustc-link-lib=dylib=asound
